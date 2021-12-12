@@ -1,4 +1,5 @@
 # Applied-Combinatorics-Exercises
+## Some algorithms from the applied combinatorics class (4th semester)
 
 1) Generate the set Fn,k ⊆ Bn,k (Binary words with exactly k non consecutive ones)
 2) Generate An,k = {a1a2 · · · ak : 1 ≤ a1 < a2 < · · · < ak ≤ n},  a1+a2+...+ai=s, 1<=k<=n, recursively.
